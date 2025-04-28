@@ -40,14 +40,6 @@
 
 ## 🛠️ Languages and Tools
 
-<style>
-  .badge {
-    border-radius: 50%;
-    padding: 10px;
-    margin: 5px;
-  }
-</style>
-
 <p>
   <img class="badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img class="badge" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
