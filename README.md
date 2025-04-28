@@ -1,14 +1,14 @@
 # Hi 👋, I'm Hira Nawaz!
 
 **Bachelor of Science in Computer Science (BSCS)**  
-**GitHub Username**: (https://github.com/HiraNawaz2415) <!-- (Update this link with your real GitHub username) -->
+**GitHub Username**: [HiraNawaz2415](https://github.com/HiraNawaz2415)
 
 ---
 
 ## 🔭 I’m currently working on
 - Machine Learning Projects
 
-## 🔭 I have recently done working on:
+## 🔭 I have recently worked on:
 - Mobile App Development
 - Web Development
 - Streamlit
@@ -33,8 +33,8 @@
 ---
 
 ## 📫 How to reach me
-- LinkedIn:https://www.linkedin.com/in/hira-nawaz-544632348/
-- 📧 Email: nawazhira48@gmail.com
+- LinkedIn: [Hira Nawaz](https://www.linkedin.com/in/hira-nawaz-544632348/)
+- 📧 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
 
@@ -68,7 +68,6 @@
   <img class="badge" src="https://img.shields.io/badge/Dev%20C++-003B57?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📂 Projects
@@ -83,23 +82,26 @@
 
 ## 🌐 Connect with Me
 
-<style>
-  .badge {
-    border-radius: 50%;
-    padding: 10px;
-    margin: 5px;
-  }
-</style>
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/hira-nawaz-544632348)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22962807/noor-fatima)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiranawaz2415)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nawazhira48)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nawazhira48)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
+<p>
+  <a href="http://www.linkedin.com/in/hira-nawaz-544632348">
+    <img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/23370218/hira-nawaz">
+    <img class="badge" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/hiranawaz2415">
+    <img class="badge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@nawazhira48">
+    <img class="badge" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nawazhira48">
+    <img class="badge" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img class="badge" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
