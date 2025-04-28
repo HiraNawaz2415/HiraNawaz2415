@@ -1,4 +1,4 @@
-👋 # Hi there, I'm Hira Nawaz!
+👋 #  Hi there, I'm Hira Nawaz!
 
 Welcome to my GitHub profile!  
 I'm passionate about **technology**, **problem-solving**, and **building real-world solutions**.
