@@ -6,8 +6,6 @@
 ---
 
 ## 🔭 I’m currently working on
-- Mobile App Development
-- Web Development
 - Machine Learning Projects
 
 ## 🔭 I have recently done working on:
