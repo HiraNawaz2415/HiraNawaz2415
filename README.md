@@ -58,6 +58,8 @@
   <img class="badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img class="badge" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img class="badge" src="https://img.shields.io/badge/Dev%20C++-003B57?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img class="badge" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
 </p>
 
 ---
