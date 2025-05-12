@@ -1,7 +1,9 @@
 # Hi 👋, I'm Hira Nawaz!
+![Profile Views](https://komarev.com/ghpvc/?username=HiraNawaz2415&color=blue)
 
-**Bachelor of Science in Computer Science (BSCS)**  
-**GitHub Username**: [HiraNawaz2415](https://github.com/HiraNawaz2415)
+
+                                           **Bachelor of Science in Computer Science (BSCS)**  
+                                         **GitHub Username**: [HiraNawaz2415](https://github.com/HiraNawaz2415)
 
 ---
 
