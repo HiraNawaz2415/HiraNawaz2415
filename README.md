@@ -5,10 +5,10 @@
 
 ---
 
-## 🔭 I’m currently working on
+## I’m currently working on
 - Machine Learning Projects
 
-## 🔭 I have recently worked on:
+## I have recently worked on:
 - Mobile App Development
 - Web Development
 - Streamlit
@@ -16,29 +16,23 @@
 
 ## 🤝 I’m looking to collaborate on
 - Real-world applications integrating Machine Learning and Mobile Development.
-
-## 🛠️ What I Do
-- Create **mobile applications** focused on performance and user experience.
-- Develop **modern websites** and **web applications** (Streamlit & more).
-- Perform **web scraping** and automate data collection.
-- Explore and build **machine learning models**.
-
+- 
 ---
 
-## 💬 Ask me about
+## Ask me about
 - Mobile Development
 - Web Scraping
 - Machine Learning
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 - LinkedIn: [Hira Nawaz](https://www.linkedin.com/in/hira-nawaz-544632348/)
 - 📧 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p>
   <img class="badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -74,11 +68,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=default)
 
-## 🧠 Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=default)
 
