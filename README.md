@@ -72,6 +72,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=default)
+
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=default)
+
+---
+
 ## 🌐 Connect with Me
 
 <p>
@@ -97,4 +107,4 @@
 
 ---
 
-Thanks for visiting! 🚀✨
+Thanks for visiting!
