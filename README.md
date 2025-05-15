@@ -13,10 +13,13 @@
 - Machine Learning
 
 ---
+## GitHub Stats
 
-## How to reach me
-- LinkedIn: [Hira Nawaz](https://www.linkedin.com/in/hira-nawaz-544632348/)
-- Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=default)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=default)
 
 ---
 
@@ -62,16 +65,11 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=default)
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=default)
+## How to reach me
+- LinkedIn: [Hira Nawaz](https://www.linkedin.com/in/hira-nawaz-544632348/)
+- Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
-
 ## 🌐 Connect with Me
 
 <p>
