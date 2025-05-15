@@ -7,20 +7,6 @@
 
 ---
 
-## I’m currently working on
-- Machine Learning Projects
-
-## I have recently worked on:
-- Mobile App Development
-- Web Development
-- Streamlit
-- Python Libraries
-
-## 🤝 I’m looking to collaborate on
-- Real-world applications integrating Machine Learning and Mobile Development.
-- 
----
-
 ## Ask me about
 - Mobile Development
 - Web Scraping
@@ -30,7 +16,7 @@
 
 ## How to reach me
 - LinkedIn: [Hira Nawaz](https://www.linkedin.com/in/hira-nawaz-544632348/)
-- 📧 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
+- Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
 
