@@ -48,7 +48,7 @@
 
 ---
 
-## eatured Projects
+## Featured Projects
 
 -  **FitTrack**: Fitness tracking app with steps, workout, water & nutrition modules.
 -  **YouTube Scraper**: Scrapes YouTube data using Python & Selenium.
