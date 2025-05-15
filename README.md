@@ -19,19 +19,14 @@
 🎓 BSCS (Bachelor of Science in Computer Science)  
 📱 Mobile App Developer – XML | Java | Android  
 💡 AI & ML Explorer – Python | Sklearn | Data Analysis  
-🌱 Currently learning MLKit and Data Science
 🌐 Web Scraping Enthusiast – Python | Selenium | BeautifulSoup  
+🌱 Currently learning MLKit  
 📫 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp,c,html,css,js,react,mysql,sqlite,firebase,git,vscode,jupyter,numpy,pandas,sklearn,matplotlib,github" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Beautiful_Soup_logo.svg" alt="BeautifulSoup" title="BeautifulSoup" width="40" height="40" style="vertical-align:middle;"/>
-  &nbsp;&nbsp;
-  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" title="Selenium" width="40" height="40" style="vertical-align:middle;"/>
 </p>
 
 ---
@@ -53,16 +48,16 @@
 
 ---
 
-## Featured Projects
+## eatured Projects
 
-- **FitTrack**: Fitness tracking app with steps, workout, water & nutrition modules.
-- **YouTube Scraper**: Scrapes YouTube data using Python & Selenium.
-- **Currency Converter App**: Real-time currency conversion using API.
-- **ML Projects**: Includes supervised/unsupervised models and data visualizations.
+-  **FitTrack**: Fitness tracking app with steps, workout, water & nutrition modules.
+-  **YouTube Scraper**: Scrapes YouTube data using Python & Selenium.
+-  **Currency Converter App**: Real-time currency conversion using API.
+-  **ML Projects**: Includes supervised/unsupervised models and data visualizations.
 
 ---
 
-## Connect with Me
+## 📬 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hira-nawaz-544632348/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
@@ -76,9 +71,9 @@
 
 ## Fun Facts
 
-- 🚀 I love exploring new tech & tools.
-- 💻 I enjoy building apps that improve everyday life.
-- 🌍 I aim to use tech for social good.
+-  I love exploring new tech & tools.
+-  I enjoy building apps that improve everyday life.
+-  I aim to use tech for social good.
 
 ---
 
