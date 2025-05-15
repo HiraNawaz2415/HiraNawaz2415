@@ -17,9 +17,10 @@
 
 ## About Me
 🎓 BSCS (Bachelor of Science in Computer Science)  
-📱 Mobile App Developer – Kotlin | Java | Android  
+📱 Mobile App Developer – XML | Java | Android  
 💡 AI & ML Explorer – Python | Sklearn | Data Analysis  
 🌱 Currently learning MLKit and Data Science
+🌐 Web Scraping Enthusiast – Python | Selenium | BeautifulSoup  
 📫 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
@@ -27,6 +28,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp,c,html,css,js,react,mysql,sqlite,firebase,git,vscode,jupyter,numpy,pandas,sklearn,matplotlib,github" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Beautiful_Soup_logo.svg" alt="BeautifulSoup" title="BeautifulSoup" width="40" height="40" style="vertical-align:middle;"/>
+  &nbsp;&nbsp;
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" title="Selenium" width="40" height="40" style="vertical-align:middle;"/>
 </p>
 
 ---
