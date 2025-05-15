@@ -1,98 +1,86 @@
-# Hi 👋, I'm Hira Nawaz!
-![Profile Views](https://komarev.com/ghpvc/?username=HiraNawaz2415&color=blue)
+<h1 align="center">Hi there, I'm Hira Nawaz! 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&width=500&lines=BSCS+Student+%7C+Mobile+Developer;AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Passionate+about+Learning+%26+Building" />
+</p>
 
-  **Bachelor of Science in Computer Science (BSCS)**  
-  **GitHub Username**: [HiraNawaz2415](https://github.com/HiraNawaz2415)
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" height="100">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HiraNawaz2415&label=Profile%20views&color=0e75b6&style=flat" alt="HiraNawaz2415" />
+  <img src="https://img.shields.io/github/followers/HiraNawaz2415?label=Followers&style=social" alt="followers"/>
+</p>
 
 ---
 
-## Ask me about
-- Mobile Development
-- Web Scraping
-- Machine Learning
+## About Me
+🎓 BSCS (Bachelor of Science in Computer Science)  
+📱 Mobile App Developer – Kotlin | Java | Android  
+💡 AI & ML Explorer – Python | Sklearn | Data Analysis  
+🌱 Currently learning MLKit and Data Science
+📫 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=default)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp,c,html,css,js,react,mysql,sqlite,firebase,git,vscode,jupyter,numpy,pandas,sklearn,matplotlib,github" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=radical" alt="Hira's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiraNawaz2415&theme=radical" alt="GitHub streak"/>
+</p>
+
+---
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=default)
-
----
-
-## Languages and Tools
-
-<p>
-  <img class="badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Dev%20C++-003B57?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img class="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img class="badge" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img class="badge" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img class="badge" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
- <img class="badge" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
- <img class="badge" src="https://img.shields.io/badge/Seaborn-0D3D56?style=flat-square&logo=python&logoColor=white" />
- <img class="badge" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-
-  <img class="badge" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📂 Projects
+## Featured Projects
 
-- **FitTrack App**: A complete fitness tracking application with step counting, workout plans, nutrition tips, and water reminders.
-- **YouTube Scraper**: A tool to scrape video information such as titles, views, and upload dates from YouTube.
-- **Portfolio Website**: My personal portfolio showcasing my work, experience, and contact information.
-- **Currency Converter App**: A real-time currency conversion app using live exchange rates.
-- **Other Projects**: Explore my repositories for more exciting work!
-
----
-
-## How to reach me
-- LinkedIn: [Hira Nawaz](https://www.linkedin.com/in/hira-nawaz-544632348/)
-- Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
+- **FitTrack**: Fitness tracking app with steps, workout, water & nutrition modules.
+- **YouTube Scraper**: Scrapes YouTube data using Python & Selenium.
+- **Currency Converter App**: Real-time currency conversion using API.
+- **ML Projects**: Includes supervised/unsupervised models and data visualizations.
 
 ---
-## 🌐 Connect with Me
 
-<p>
-  <a href="http://www.linkedin.com/in/hira-nawaz-544632348">
-    <img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/23370218/hira-nawaz">
-    <img class="badge" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/hiranawaz2415">
-    <img class="badge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@nawazhira48">
-    <img class="badge" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/nawazhira48">
-    <img class="badge" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img class="badge" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hira-nawaz-544632348/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/23370218/hira-nawaz"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=flat&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/hiranawaz2415"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://medium.com/@nawazhira48"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/nawazhira48"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=flat&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
-Thanks for visiting!
+## Fun Facts
+
+- 🚀 I love exploring new tech & tools.
+- 💻 I enjoy building apps that improve everyday life.
+- 🌍 I aim to use tech for social good.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150">
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <br>
+  ⭐ Thank you for visiting my GitHub profile! ⭐
+</p>
