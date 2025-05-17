@@ -76,10 +76,6 @@
 -  I aim to use tech for social good.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150">
-  <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
   <br>
   ⭐ Thank you for visiting my GitHub profile! ⭐
