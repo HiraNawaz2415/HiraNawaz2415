@@ -40,6 +40,14 @@
 
 ---
 
+## 👨‍💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/HiraNawaz2415?theme=dark&font=baloo&ext=contest" />
+</p>
+
+---
+
 ## Most Used Languages
 
 <p align="center">
