@@ -65,6 +65,7 @@
   <a href="https://www.kaggle.com/hiranawaz2415"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://medium.com/@nawazhira48"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/nawazhira48"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=flat&logo=hackerrank&logoColor=white"/></a>
+   <a href="https://leetcode.com/u/hiranawaz2415/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
