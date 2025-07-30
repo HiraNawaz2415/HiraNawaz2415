@@ -27,8 +27,9 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp,c,html,css,js,react,mysql,sqlite,firebase,git,vscode,jupyter,numpy,pandas,sklearn,matplotlib,github" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp,c,html,css,js,react,mysql,sqlite,firebase,git,vscode,jupyter,numpy,pandas,sklearn,matplotlib,github,tailwind" />
 </p>
+
 
 ---
 
