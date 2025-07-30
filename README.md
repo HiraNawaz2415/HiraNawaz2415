@@ -20,6 +20,7 @@
 📱 Mobile App Developer – XML | Java | Android  
 💡 AI & ML Explorer – Python | Sklearn | Data Analysis  
 🌐 Web Scraping Enthusiast – Python | Selenium | BeautifulSoup  
+🌐 Web development | HTML, CSS, Javasrcit, React js,Tailwind  
 🌱 Currently learning MLKit  
 📫 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
