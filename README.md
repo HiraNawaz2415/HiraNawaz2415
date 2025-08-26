@@ -17,7 +17,6 @@
 
 ## About Me
 🎓 MS Computer Science (Batch 2025–2027) – Continuing Studies
-
 🎓 BS hons CS (4 Years)  
 📱 Mobile App Developer – XML | Java | Android  
 💡 AI & ML Explorer – Python | Sklearn | Data Analysis  
