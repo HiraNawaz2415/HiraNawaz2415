@@ -95,28 +95,46 @@
 
 
 ---
-
-## 📊 GitHub Stats & Profile
+## 💼 GitHub Portfolio Overview
 
 <p align="center">
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/HiraNawaz2415">
-<img src="https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=radical&count_private=true&hide_border=false" height="165"/>
+<!-- Followers -->
+<a href="https://github.com/HiraNawaz2415?tab=followers">
+<img src="https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="Followers"/>
 </a>
 
+<!-- Stars -->
+<a href="https://github.com/HiraNawaz2415/stargazers">
+<img src="https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge&logo=github&color=F7DF1E" alt="Stars"/>
+</a>
+
+<!-- Forks -->
+<a href="https://github.com/HiraNawaz2415/network/members">
+<img src="https://img.shields.io/github/forks/HiraNawaz2415?style=for-the-badge&logo=github&color=4FC08D" alt="Forks"/>
+</a>
+
+<!-- Public Repos -->
 <a href="https://github.com/HiraNawaz2415">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical" height="165"/>
+<img src="https://img.shields.io/github/public-repos/HiraNawaz2415?style=for-the-badge&logo=github&color=007ACC" alt="Public Repos"/>
 </a>
 
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+### 🌐 Top Languages
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-bg=false&margin-w=5&margin-h=5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-bg=false&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </p>
 
 
