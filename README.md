@@ -23,8 +23,9 @@
 
 <!-- Developer Illustration -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/396045/screenshots/14337879/media/0f7d0f9b9d537d9b105ca4f72c1e3d87.png" alt="Developer Illustration" width="400"/>
+  <img src="https://raw.githubusercontent.com/HiraNawaz2415/YourRepoName/main/assets/developer.png" alt="Developer Illustration" width="400"/>
 </p>
+
 ##  About Me
 
 🎓 **MS Computer Science (2025 – 2027)**  
