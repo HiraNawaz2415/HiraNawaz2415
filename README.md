@@ -21,7 +21,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;Web+Scraping+%26+Automation+Lover;Always+Learning+New+Technologies" />
 </p>
 
----
 
 ##  About Me
 
@@ -130,15 +129,15 @@
 
 ##  Featured Projects
 
-###  FitTrack: Step Counter,Workout Planner,Water Reminder,Nutrition Module  
+##### FitTrack: Step Counter,Workout Planner,Water Reminder,Nutrition Module  
 
-###  YouTube Scraper: Extracts video data,Built using Selenium & Python  
+#####  YouTube Scraper: Extracts video data,Built using Selenium & Python  
 
-###  Currency Converter App: Real-time currency conversion,API Integration  
+#####  Currency Converter App: Real-time currency conversion,API Integration  
 
-### Machine Learning Projects: Supervised Learning,Unsupervised Learning,Data Visualization  
+##### Machine Learning Projects: Supervised Learning,Unsupervised Learning,Data Visualization  
 
-### Deep Learning Projects: CNN Models,Transfer Learning  
+##### Deep Learning Projects: CNN Models,Transfer Learning  
 
 ---
 
