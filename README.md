@@ -108,9 +108,14 @@
 ---
 ##  GitHub Stat
 
-
-
+<p align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=HiraNawaz2415&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+<!-- Public Repos -->
+<a href="https://github.com/HiraNawaz2415">
+<img src="https://img.shields.io/github/public-repos/HiraNawaz2415?style=for-the-badge&logo=github&color=007ACC" alt="Public Repos"/>
+</a>
 
 ---
 
