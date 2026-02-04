@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 **MS Computer Science (2025 – 2027)**  
 🎓 **BS Hons Computer Science**  
@@ -79,7 +79,7 @@
 
 ---
 
-## 📚 Most Used Languages
+## Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=tokyonight"/>
@@ -87,7 +87,7 @@
 
 ---
 
-## 🏆 Achievements & Contributions
+##  Achievements & Contributions
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=algolia&margin-w=10&margin-h=10"/>
@@ -95,9 +95,9 @@
 
 ---
 
-## 👨‍💻 Featured Projects
+##  Featured Projects
 
-### 🏋 FitTrack
+###  FitTrack
 ✔ Step Counter  
 ✔ Workout Planner  
 ✔ Water Reminder  
@@ -105,32 +105,32 @@
 
 ---
 
-### 📺 YouTube Scraper
+###  YouTube Scraper
 ✔ Extracts video data  
 ✔ Built using Selenium & Python  
 
 ---
 
-### 💱 Currency Converter App
+###  Currency Converter App
 ✔ Real-time currency conversion  
 ✔ API Integration  
 
 ---
 
-### 🤖 Machine Learning Projects
+### Machine Learning Projects
 ✔ Supervised Learning  
 ✔ Unsupervised Learning  
 ✔ Data Visualization  
 
 ---
 
-### 🧠 Deep Learning Projects
+### Deep Learning Projects
 ✔ CNN Models  
 ✔ Transfer Learning  
 
 ---
 
-## 📈 Coding Profiles
+##  Coding Profiles
 
 <p align="center">
 <a href="https://leetcode.com/u/hiranawaz2415/">
@@ -143,12 +143,29 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hira-nawaz-544632348/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://stackoverflow.com/users/23370218/hira-nawaz"><img src="https://skillicons.dev/icons?i=stackoverflow"/></a>
-<a href="https://www.kaggle.com/hiranawaz2415"><img src="https://skillicons.dev/icons?i=kaggle"/></a>
-<a href="https://medium.com/@nawazhira48"><img src="https://skillicons.dev/icons?i=medium"/></a>
-<a href="https://www.hackerrank.com/profile/nawazhira48"><img src="https://skillicons.dev/icons?i=hackerrank"/></a>
+
+<a href="https://www.linkedin.com/in/hira-nawaz-544632348/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/23370218/hira-nawaz">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/hiranawaz2415">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@nawazhira48">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nawazhira48">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
+
 
 ---
 
