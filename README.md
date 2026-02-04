@@ -23,31 +23,12 @@
 💡 AI & ML Explorer – Python | Sklearn | Data Analysis  
 🌐 Web Scraping Enthusiast – Python | Selenium | BeautifulSoup  
 🌐 Web development | HTML, CSS, Javasrcit, React js,Tailwind  
-🌱 Currently Doing MS
+🌱 Currently Doing MS |  Image Processing
 📫 Email: [nawazhira48@gmail.com](mailto:nawazhira48@gmail.com)
 
 ---
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,xml,react,html,css,tailwind" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,numpy,pandas,scipy,matplotlib,seaborn,jupyter" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,flask,fastapi" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,beautifulsoup" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=java,xml,androidstudio,python,cpp,c,html,css,js,react,beautifulsoup,selenium,mysql,sqlite,firebase,git,vscode,jupyter,numpy,pandas,scipy,seaborn,pydantic,sklearn,matplotlib,github,tailwind,flask,fastapi,tensorflow,keras,matlab" />
 </p>
 
 
