@@ -117,30 +117,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
-###  Achievements & Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-bg=false&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
-
 
 ---
 
-##  Featured Projects
-
-##### FitTrack: Step Counter,Workout Planner,Water Reminder,Nutrition Module  
-
-#####  YouTube Scraper: Extracts video data,Built using Selenium & Python  
-
-#####  Currency Converter App: Real-time currency conversion,API Integration  
-
-##### Machine Learning Projects: Supervised Learning,Unsupervised Learning,Data Visualization  
-
-##### Deep Learning Projects: CNN Models,Transfer Learning  
-
----
 
 ##  Coding Profiles
 
