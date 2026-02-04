@@ -21,9 +21,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;Web+Scraping+%26+Automation+Lover;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/7bM1z2G.gif" alt="Developer Coding" width="400"/>
-</p>
 
 
 ##  About Me
