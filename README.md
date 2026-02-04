@@ -73,24 +73,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HiraNawaz2415&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&count_private=true&theme=radical&hide_title=false&hide_border=false" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiraNawaz2415&theme=radical" height="170"/>
 </p>
 
----
-
-## Most Used Languages
+## 🏆 Achievements & Contributions
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-frame=true&no-bg=false&margin-w=5&margin-h=5"/>
 </p>
 
----
-
-##  Achievements & Contributions
+## 📚 Most Used Languages
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=algolia&margin-w=10&margin-h=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical"/>
 </p>
 
 ---
