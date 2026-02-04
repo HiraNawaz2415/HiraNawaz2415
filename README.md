@@ -95,7 +95,7 @@
 
 
 ---
-## 💼 GitHub Portfolio Overview
+##  GitHub Stat
 
 <p align="center">
 
@@ -107,16 +107,6 @@
 <!-- Stars -->
 <a href="https://github.com/HiraNawaz2415/stargazers">
 <img src="https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge&logo=github&color=F7DF1E" alt="Stars"/>
-</a>
-
-<!-- Forks -->
-<a href="https://github.com/HiraNawaz2415/network/members">
-<img src="https://img.shields.io/github/forks/HiraNawaz2415?style=for-the-badge&logo=github&color=4FC08D" alt="Forks"/>
-</a>
-
-<!-- Public Repos -->
-<a href="https://github.com/HiraNawaz2415">
-<img src="https://img.shields.io/github/public-repos/HiraNawaz2415?style=for-the-badge&logo=github&color=007ACC" alt="Public Repos"/>
 </a>
 
 </p>
