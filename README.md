@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ###  Programming Languages
 <p align="center">
@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
 
 ###  Mobile & Frontend Development
 <p align="center">
@@ -60,7 +59,6 @@
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
 
 ###  AI / Machine Learning / Data Science
 <p align="center">
@@ -74,16 +72,12 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
----
 
 ###  Web Scraping & Automation
 <p align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-FF7F50?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
 </p>
-
----
-
 ###  Databases & Backend
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -92,8 +86,6 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-
----
 
 ###  Tools & Platforms
 <p align="center">
@@ -119,7 +111,7 @@
 
 ---
 
-### 🌐 Top Languages
+###  Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical" alt="Top Languages"/>
@@ -127,7 +119,7 @@
 
 ---
 
-### 🏆 Achievements & Trophies
+###  Achievements & Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-bg=false&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
@@ -138,36 +130,15 @@
 
 ##  Featured Projects
 
-###  FitTrack
- Step Counter  
- Workout Planner  
- Water Reminder  
- Nutrition Module  
+###  FitTrack: Step Counter,Workout Planner,Water Reminder,Nutrition Module  
 
----
+###  YouTube Scraper: Extracts video data,Built using Selenium & Python  
 
-###  YouTube Scraper
- Extracts video data  
- Built using Selenium & Python  
+###  Currency Converter App: Real-time currency conversion,API Integration  
 
----
+### Machine Learning Projects: Supervised Learning,Unsupervised Learning,Data Visualization  
 
-###  Currency Converter App
- Real-time currency conversion  
- API Integration  
-
----
-
-### Machine Learning Projects
- Supervised Learning  
- Unsupervised Learning  
- Data Visualization  
-
----
-
-### Deep Learning Projects
- CNN Models  
- Transfer Learning  
+### Deep Learning Projects: CNN Models,Transfer Learning  
 
 ---
 
@@ -210,7 +181,7 @@
 
 ---
 
-## ✨ Fun Facts
+##  Fun Facts
 
 🌟 Love exploring new technologies  
 🌟 Enjoy building real-life useful apps  
