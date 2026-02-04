@@ -1,6 +1,17 @@
 <h1 align="center">
   Hi 👋, I'm Hira Nawaz
 </h1>
+<p align="center">
+
+<!-- Followers -->
+<a href="https://github.com/HiraNawaz2415?tab=followers">
+<img src="https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="Followers"/>
+</a>
+
+<!-- Stars -->
+<a href="https://github.com/HiraNawaz2415/stargazers">
+<img src="https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge&logo=github&color=F7DF1E" alt="Stars"/>
+</a>
 
 <h3 align="center">
  MS Computer Science Student | Mobile Developer | AI & ML Explorer
@@ -97,17 +108,7 @@
 ---
 ##  GitHub Stat
 
-<p align="center">
 
-<!-- Followers -->
-<a href="https://github.com/HiraNawaz2415?tab=followers">
-<img src="https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="Followers"/>
-</a>
-
-<!-- Stars -->
-<a href="https://github.com/HiraNawaz2415/stargazers">
-<img src="https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge&logo=github&color=F7DF1E" alt="Stars"/>
-</a>
 
 </p>
 
