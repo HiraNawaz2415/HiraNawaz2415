@@ -70,24 +70,9 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&count_private=true&theme=radical&hide_title=false&hide_border=false" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiraNawaz2415&theme=radical" height="170"/>
-</p>
-
-## 🏆 Achievements & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-frame=true&no-bg=false&margin-w=5&margin-h=5"/>
-</p>
-
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical"/>
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge)
+![GitHub Repo Stars](https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge)
+![GitHub Repo Forks](https://img.shields.io/github/forks/HiraNawaz2415?style=for-the-badge)
 
 ---
 
