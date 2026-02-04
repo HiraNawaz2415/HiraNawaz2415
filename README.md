@@ -70,9 +70,32 @@
 
 ---
 
-![GitHub Followers](https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge)
-![GitHub Repo Stars](https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge)
-![GitHub Repo Forks](https://img.shields.io/github/forks/HiraNawaz2415?style=for-the-badge)
+## 📊 GitHub Stats
+
+<p align="center">
+
+<a href="https://github.com/HiraNawaz2415?tab=followers">
+<img src="https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/HiraNawaz2415?tab=repositories">
+<img src="https://img.shields.io/github/repo-size/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="Repo Size"/>
+</a>
+
+<a href="https://github.com/HiraNawaz2415/stargazers">
+<img src="https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge&logo=github&color=F7DF1E" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/HiraNawaz2415/network/members">
+<img src="https://img.shields.io/github/forks/HiraNawaz2415?style=for-the-badge&logo=github&color=4FC08D" alt="GitHub Forks"/>
+</a>
+
+<a href="https://github.com/HiraNawaz2415">
+<img src="https://img.shields.io/github/public-repos/HiraNawaz2415?style=for-the-badge&logo=github&color=007ACC" alt="Public Repos"/>
+</a>
+
+</p>
+
 
 ---
 
