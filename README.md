@@ -96,16 +96,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Profile
 
 <p align="center">
 
+<!-- Followers, Stars, Forks, Public Repos -->
 <a href="https://github.com/HiraNawaz2415?tab=followers">
 <img src="https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/HiraNawaz2415?tab=repositories">
-<img src="https://img.shields.io/github/repo-size/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="Repo Size"/>
 </a>
 
 <a href="https://github.com/HiraNawaz2415/stargazers">
@@ -122,6 +119,21 @@
 
 </p>
 
+---
+
+### 🌐 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=tokyonight&hide=jupyter"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=HiraNawaz2415&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
