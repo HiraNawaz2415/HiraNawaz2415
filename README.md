@@ -100,40 +100,25 @@
 
 <p align="center">
 
-<!-- Followers, Stars, Forks, Public Repos -->
-<a href="https://github.com/HiraNawaz2415?tab=followers">
-<img src="https://img.shields.io/github/followers/HiraNawaz2415?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/HiraNawaz2415/stargazers">
-<img src="https://img.shields.io/github/stars/HiraNawaz2415?style=for-the-badge&logo=github&color=F7DF1E" alt="GitHub Stars"/>
-</a>
-
-<a href="https://github.com/HiraNawaz2415/network/members">
-<img src="https://img.shields.io/github/forks/HiraNawaz2415?style=for-the-badge&logo=github&color=4FC08D" alt="GitHub Forks"/>
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/HiraNawaz2415">
+<img src="https://github-readme-stats.vercel.app/api?username=HiraNawaz2415&show_icons=true&theme=radical&count_private=true&hide_border=false" height="165"/>
 </a>
 
 <a href="https://github.com/HiraNawaz2415">
-<img src="https://img.shields.io/github/public-repos/HiraNawaz2415?style=for-the-badge&logo=github&color=007ACC" alt="Public Repos"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=radical" height="165"/>
 </a>
 
 </p>
 
 ---
 
-### 🌐 Top Languages
+### 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraNawaz2415&layout=compact&theme=tokyonight&hide=jupyter"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HiraNawaz2415&theme=radical&no-bg=false&margin-w=5&margin-h=5"/>
 </p>
 
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=HiraNawaz2415&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
