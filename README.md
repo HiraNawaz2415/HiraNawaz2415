@@ -26,7 +26,7 @@
 
 💻 Passionate about building smart & useful applications  
 📱 Android Developer (Java + XML)  
-🤖 Exploring AI, ML & Image Processing  
+🤖 Exploring AI, ML, DL, GEN AI, XAI & Image Processing  
 🌐 Web Development & Automation Enthusiast  
 
 📧 **Email:** nawazhira48@gmail.com  
