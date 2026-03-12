@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Hira Nawaz! 👋</h1>
 <h3 align="center">
- MS Computer Science Student | Mobile Developer | AI & ML Explorer
+ MS Computer Science Student | Mobile App Developer | AI & ML Explorer
 </h3>
 
 <p align="center">
